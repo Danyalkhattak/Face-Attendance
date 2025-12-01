@@ -1,0 +1,7 @@
+__pycache__/
+data/encodings/*
+*.pyc
+*.pkl
+.env
+dist/
+build/
